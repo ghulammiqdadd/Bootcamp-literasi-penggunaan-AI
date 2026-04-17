@@ -74,7 +74,7 @@
         <div class="container">
             <a class="navbar-brand fw-bold fs-3" href="#">
                 <i class="fas fa-brain text-warning me-2"></i>
-                Akademi Integriti
+                Pemahaman pemakaian AI Integriti
             </a>
         </div>
     </nav>
@@ -85,7 +85,7 @@
             <div class="col-lg-10 text-center hero-section p-5">
                 <h1 class="display-4 fw-bold mb-4 text-primary">
                     <i class="fas fa-rocket me-3"></i>
-                    Bootcamp Literasi Penggunaan AI
+                    Bootcamp Literasi Penggunaan AI Integriti
                 </h1>
                 <p class="lead mb-4 text-muted">
                     Tingkatkan kompetensi Anda dalam memanfaatkan AI secara etis dan efektif
@@ -94,7 +94,7 @@
                     <div class="col-md-3">
                         <div class="card-modern p-4 text-center bg-primary text-white">
                             <i class="fas fa-users fa-2x mb-3"></i>
-                            <h5>500+</h5>
+                            <h5>500 person</h5>
                             <small>Participants</small>
                         </div>
                     </div>
